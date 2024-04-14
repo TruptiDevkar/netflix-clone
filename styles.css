@@ -165,8 +165,8 @@ label::after{
     right: 20px;
     transition: transform 0.5;
 }
-input [type="radio"]{
-    display: none;
+input{
+    display:none;
 }
 .accordian .content{
     background: #303030;
